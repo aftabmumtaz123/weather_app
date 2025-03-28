@@ -16,8 +16,8 @@ A simple and beautiful weather app built with **Node.js**, **Express**, and **EJ
 
 ## 📸 Preview
 
-![Weather App Preview](https://via.placeholder.com/600x400.png?text=Weather+App+Screenshot)  
-*(Replace this with your own screenshot or GIF)*
+![Weather App Preview]![image](https://github.com/user-attachments/assets/d67e7462-7ff1-4178-adc1-9bd01be2328c)
+  
 
 ---
 
