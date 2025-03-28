@@ -16,7 +16,7 @@ app.get("", async (req,res)=>{
 
  
 
-    res.render("index.ejs",{Name: "Aftab Mumtaz",Gender: "Male",Age: 22})
+    res.render("index.ejs")
 
 })
 
